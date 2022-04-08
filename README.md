@@ -5,7 +5,7 @@ The scope of this assessment is to use the following mockup to build a "Meet our
 ![Meet our team](meet-our-team.jpg)
 
 ### Requirements
-* Make an API call to get the list of team memebers
+* Make an API call to get the list of team members
 * Using the API response, render the following data for each team member in the array:
   * Name
   * Job Title
@@ -45,7 +45,7 @@ $textHighlight: "#6f71f1";
 ```
 {
     "heading": "Meet our team",
-    "subHeading": "Donec dapibus scelerisque orci, sed consectetur est posuere sed. Duis viverra interdum vulputate.",
+    "intro": "Donec dapibus scelerisque orci, sed consectetur est posuere sed. Duis viverra interdum vulputate."
 }
 ```
 #### Images 
