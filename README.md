@@ -1,4 +1,4 @@
-# Full Stack & Front-End Developer Assesment 
+# Full Stack & Front-End Developer Assessment 
 
 The scope of this assessment is to use the following mockup to build a "Meet our team" page using HTML, CSS, and JavaScript.  You will be asked to provide a link to your project prior to your technical or team interview.
 
