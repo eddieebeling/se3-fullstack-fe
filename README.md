@@ -48,6 +48,12 @@ $textHighlight: "#6f71f1";
     "subHeading": "Donec dapibus scelerisque orci, sed consectetur est posuere sed. Duis viverra interdum vulputate.",
 }
 ```
+#### Images 
+All profile image references are included in the API response. The Twitter and LinkedIn social media icons are included in this project or can be accessed here:
+
+* Twitter Icon - [https://res.cloudinary.com/dot-foods/image/upload/v1649377334/sse-3-images/twitter-icon_vrfevs.png](https://res.cloudinary.com/dot-foods/image/upload/v1649377334/sse-3-images/twitter-icon_vrfevs.png)
+* LinkedIn Icon - [https://res.cloudinary.com/dot-foods/image/upload/v1649377334/sse-3-images/linkedin-icon_knv4dg.png](https://res.cloudinary.com/dot-foods/image/upload/v1649377334/sse-3-images/linkedin-icon_knv4dg.png)
+
 ### JavaScript
 Bonus points for using any modern JavaScript framework like [Vue.js](https://vuejs.org/), [React](https://reactjs.org/), [Angular](https://angular.io/), or [AlpineJs](https://alpinejs.dev/), but feel free to use vanila JavaScript ES6 or jQuery if you feel more comfortable.
 
