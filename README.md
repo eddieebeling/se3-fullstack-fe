@@ -35,8 +35,8 @@ You may use any **sans-serif** system or [Google font](https://fonts.google.com/
 
 #### Hex Colors
 ```
-$bgDark: "#0e131e";
-$bgLight: "#191f2b";
+$bodyBg: "#0e131e";
+$cardBg: "#191f2b";
 $textWhite: "#ffffff";
 $textLight: "#c5cdd8";
 $textHighlight: "#6f71f1";
