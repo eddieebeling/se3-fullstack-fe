@@ -1,0 +1,65 @@
+[
+    {
+        "name":"Leonard Krasner",
+        "title":"Senior Designer",
+        "twitterUrl":"https://twitter.com/leokras92",
+        "linkedInUrl":"https://linkedin.com/in/leokras92",
+        "profileImg":"https://res.cloudinary.com/dot-foods/image/upload/v1649374854/sse-3-images/leonard-krasner_k6wogh.png"
+    },
+    {
+        "name":"Floyd Miles",
+        "title":"Principal Designer",
+        "twitterUrl":"https://twitter.com/fllloydm",
+        "linkedInUrl":"https://linkedin.com/in/fllloydm",
+        "profileImg":"https://res.cloudinary.com/dot-foods/image/upload/v1649374854/sse-3-images/floyd-miles_d3ad0q.png"
+    },
+    {
+        "name":"Anna Roberts",
+        "title":"Partner, Creative",
+        "twitterUrl":"https://twitter.com/aroberts94",
+        "linkedInUrl":"https://linkedin.com/in/aroberts94",
+        "profileImg":"https://res.cloudinary.com/dot-foods/image/upload/v1649374855/sse-3-images/anna-roberts_l2fbkj.png"
+    },
+    {
+        "name":"Alicia Bell",
+        "title":"Junior Copywriter",
+        "twitterUrl":"https://twitter.com/bellalicia",
+        "linkedInUrl":"https://linkedin.com/in/bellalicia",
+        "profileImg":"https://res.cloudinary.com/dot-foods/image/upload/v1649374854/sse-3-images/alicia-bell_dmuyow.png"
+    },
+    {
+        "name":"Emma Dorsey",
+        "title":"Senior Front-end Developer",
+        "twitterUrl":"https://twitter.com/thedorseyem",
+        "linkedInUrl":"https://linkedin.com/in/thedorseyem",
+        "profileImg":"https://res.cloudinary.com/dot-foods/image/upload/v1649374855/sse-3-images/emma-dorsey_byn3pp.png"
+    },
+    {
+        "name":"Whitney Francis",
+        "title":"Copywriter",
+        "twitterUrl":"https://twitter.com/whitneyfrancis",
+        "linkedInUrl":"https://linkedin.com/in/whitneyfrancis",
+        "profileImg":"https://res.cloudinary.com/dot-foods/image/upload/v1649374854/sse-3-images/whitney-francis_zywbee.png"
+    },
+    {
+        "name":"Courtney Henry",
+        "title":"Designer",
+        "twitterUrl":"https://twitter.com/courtneyhenry",
+        "linkedInUrl":"https://linkedin.com/in/courtneyhenry",
+        "profileImg":"https://res.cloudinary.com/dot-foods/image/upload/v1649374854/sse-3-images/courtney-henry_vm8pai.png"
+    },
+    {
+        "name":"Lindsay Walton",
+        "title":"Front-end Developer",
+        "twitterUrl":"https://twitter.com/lindsayw98",
+        "linkedInUrl":"https://linkedin.com/in/lindsayw98",
+        "profileImg":"https://res.cloudinary.com/dot-foods/image/upload/v1649374854/sse-3-images/lindsay-walton_zd8tjm.png"
+    },
+    {
+        "name":"Jenny Wilson",
+        "title":"Studio Artist",
+        "twitterUrl":"https://twitter.com/jjwilson",
+        "linkedInUrl":"https://linkedin.com/in/jjwilson",
+        "profileImg":"https://res.cloudinary.com/dot-foods/image/upload/v1649374852/sse-3-images/jenny-wilson_ndwviy.png"
+    }
+]
