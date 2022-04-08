@@ -57,5 +57,11 @@ All profile image references are included in the API response. The Twitter and L
 ### JavaScript
 Bonus points for using any modern JavaScript framework like [Vue.js](https://vuejs.org/), [React](https://reactjs.org/), [Angular](https://angular.io/), or [AlpineJs](https://alpinejs.dev/), but feel free to use vanila JavaScript ES6 or jQuery if you feel more comfortable.
 
+### CSS
+
+Additional bonus points for using a CSS preprocessor like [Sass](https://sass-lang.com/) or [Less](https://lesscss.org/) and structuring your CSS in BEM (block, element, modifier) format. 
+
+Try to avoid using a UI Framework like Bootstrap, Foundation, or Tailwind so the team can accurately asses your fundamental knowledge of CSS.
+
 ### You may use
 Any web-based developer tool that allows you to share a link to your project like [Codepen](https://codepen.io/) or [CodeSandbox](https://codesandbox.io/).
