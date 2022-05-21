@@ -2,7 +2,7 @@
 
 The scope of this assessment is to use the following mockup to build a "Meet our team" page using HTML, CSS, and JavaScript.  You will be asked to provide a link to your project prior to your technical or team interview.
 
-![Meet our team](meet-our-team.jpg)
+![Meet our team](meet-our-team-v2.png)
 
 ### Requirements
 * Make an API call to get the list of team members
